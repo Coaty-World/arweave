@@ -1,0 +1,4 @@
+arweave:
+  store: "khominstore.mintspace2.testnet"
+cdn:
+  character_items: "https://cdn.coaty.world/characteritems"

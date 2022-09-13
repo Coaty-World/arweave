@@ -11,5 +11,7 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
+*RKXCDPp-OFROgNYAzDiInMfAHS98Wu-hO7aXhWjXW14.json*
+
 # Dependency directories (remove the comment below to include it)
 # vendor/
