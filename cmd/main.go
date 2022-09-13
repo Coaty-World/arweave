@@ -50,7 +50,7 @@ func Mint(w http.ResponseWriter, r *http.Request) {
 	}
 
 	// generate random number
-	num := rand.Intn(1000000000)
+	num := rand.Intn(10000)
 
 	tx, err := ar.UploadFile(context.Background(), data, fmt.Sprintf("Raccoon🦝 #%v", num), "This is a Coaty World Raccoon. It brings a lot of tokens 🪙")
 	if err != nil {
